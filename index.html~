@@ -4,10 +4,10 @@
       <li> 
         <b> Osho </b>
         <a href="facebook.com/oshoparth"> Facebook Profile </a>
-      <li>Purva Bansal
       <li>
-        <b> Your Name... </b>
-        <a id="nikhil" href="#"> Name: Nikhil Karthik, Branch: CSE, Phone: +91-7597023796</a>
+      <li>
+        <b> Your Name </b>
+        <a href="#"> Your detils </a>
     </ul>
   </body>
 <html>
